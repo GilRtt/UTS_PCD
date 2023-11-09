@@ -23,4 +23,5 @@ Berdasarkan pada hasil kode program dalam collab, Maka didapatkan hasil analisis
    Menggelapkan citra grayscale dengan kuadrat nilai piksel dan menampilkan histogramnya.
 
 Kesimpulan: 
+
 Program ini melakukan oprasi pemrosesan citra, analisis histogram, dan visualisasi gambar. Sehingga membantu untuk memahami karakteristik gambar, distribusi piksel, dan efek dari berbagai transformasi citra. Juga mengamati proses histogram berubah dengan visual bin, terutama dalam konteks kanal warna. Pemahaman histogram penting dalam pengolahan citra, karena dapat membantu dalam mengevaluasi kontras, kecerahan, dan distribusi warna dalam gammbar.
